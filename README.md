@@ -4,7 +4,7 @@ import world
 
 michael_sulyak = world.people.get_or_create(
   name='Michael Sulyak',
-  nickname='expert_m',
+  site='https://sulyak.info/',
   linkedin='https://www.linkedin.com/in/michael-sulyak/',
 )
 
